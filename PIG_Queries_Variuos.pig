@@ -7,10 +7,10 @@ B = FILTER A by $0>1;
 --Usually the way I solve this problem is to use a FILTER on something I know is in the header. For example, 
 --consider the following data example:
 
-STATE,NAME
-MD,Bob
-VA,Larry
-I'll do:
+--STATE,NAME
+--MD,Bob
+--VA,Larry
+--I'll do:
 
 B = FILTER A BY state != 'STATE';
 
