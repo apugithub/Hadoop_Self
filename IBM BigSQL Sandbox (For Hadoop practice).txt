@@ -1,0 +1,9 @@
+
+IBM BigSQL Sandbox (For Hadoop practice):
+URL: https://my.imdemocloud.com
+Username: tapandas
+Email: tapandas@ugimail.net
+Pass: disposable88$
+server hostname:  systemt.datascientistworkbench.com
+Sample command: 
+ssh tapandas@systemt.datascientistworkbench.com
