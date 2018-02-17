@@ -12,3 +12,22 @@ ssh tapandas@systemt.datascientistworkbench.com
 **Online Browser based SSH Client
 https://tools.bartlweb.net/webssh/
 Chrme App(Extension):  https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quora Reference:
+https://www.quora.com/How-can-I-practice-Hadoop-programs-online-for-free-Is-there-any-free-cloud-service-that-provides-Hadoop-platform-along-with-sample-data-to-play-with-I-want-to-submit-map-reduce-code-there-and-get-the-results-Is-there-any-such-service-available
