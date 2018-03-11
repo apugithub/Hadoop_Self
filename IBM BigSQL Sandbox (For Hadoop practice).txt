@@ -22,8 +22,10 @@ Ambari Username: clsadmin
 P: 61MkCRO55iml
 
 
-
-
+****Cloudera manager AWS Login (CTS): 
+http://52.66.55.235:7180/cmf/login
+Username: read-user
+pass: read-user
 
 
 
