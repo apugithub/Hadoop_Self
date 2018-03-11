@@ -20,6 +20,12 @@ ibmcloud@mailtrix.net
 masterCARD88@
 Ambari Username: clsadmin
 P: 61MkCRO55iml
+master-management	  chs-aig-451-mn001.bi.services.us-south.bluemix.net	  169.60.139.14	  2018-03-11 05:05:17 GMT+5:30
+management-slave1	  chs-aig-451-mn002.bi.services.us-south.bluemix.net	  169.60.139.14	  2018-03-11 05:05:17 GMT+5:30
+management-slave2	   chs-aig-451-mn003.bi.services.us-south.bluemix.net	  169.60.139.14	   2018-03-11 05:05:17 GMT+5:30
+compute	              chs-aig-451-dn001.bi.services.us-south.bluemix.net
+
+
 
 
 ****Cloudera manager AWS Login (CTS): 
