@@ -1,0 +1,15 @@
+
+
+
+Getting started with Apache Klafka:
+https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents
+
+Beginning Data Exploration and Analysis with Apache Spark:
+https://app.pluralsight.com/library/courses/apache-spark-beginning-data-exploration-analysis/table-of-contents
+
+Scala: Getting Started:
+https://app.pluralsight.com/library/courses/scala-getting-started/table-of-contents
+
+
+Apache Spark Fundamentals
+https://app.pluralsight.com/library/courses/apache-spark-fundamentals/table-of-contents
