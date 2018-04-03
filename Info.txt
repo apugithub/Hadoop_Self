@@ -13,3 +13,5 @@ https://app.pluralsight.com/library/courses/scala-getting-started/table-of-conte
 
 Apache Spark Fundamentals
 https://app.pluralsight.com/library/courses/apache-spark-fundamentals/table-of-contents
+
+AWS training: hello90@mailtrix.net  disposable88
