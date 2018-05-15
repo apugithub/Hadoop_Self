@@ -1,0 +1,32 @@
+
+AVRO:
+1. It is row major format.
+2. In the avro format, we store schema separately from data. Generally avro schema file (.avsc) is maintained.
+3. Avro is a Row based format. If you want to retrieve the data as a whole you can use Avro
+4. Avro is language neutral data serialization (Widely used as a serialization platform)
+5. Writables has the drawback that they do not provide language portability.
+6. Avro formatted data can be described through language independent schema. Hence Avro formatted data can 
+be shared across applications using different languages.
+7. Avro stores the schema in header of file so data is self-describing.
+8. Avro formatted files are splittable and compressible and hence it’s a good candidate for data storage in Hadoop ecosystem.
+9. Schema Evolution – Schema used to read a Avro file need not be same as schema which was used to write the files. 
+   This makes it possible to add new fields
+   
+   
+   
+ORC:
+1. Column oriented storage format.
+2. Originally it is Hive's Row Columnar file. Now improved as Optimized RC (ORC)
+3. Schema is with the data, but as a part of footer.
+4. Data is stored as row groups and stripes.
+5. Each stripe maintains indexes and stats about data it stores.
+
+
+Parquet:
+1. Column oriented storage format
+2. Only required columns would be fetched / read, it reduces the disk I/O.
+3. Parquet is well suited for data warehouse kind of solutions where aggregations are required on certain column over a huge set of data.
+4. Parquet provides very good compression upto 75% when used with compression formats like snappy.
+5. Parquet can be read and write using Avro API and Avro Schema.
+6. It also provides predicate pushdown, thus reducing further disk I/O cost.
+7. When full data retrieval is required AVRO is referred over parquet.
